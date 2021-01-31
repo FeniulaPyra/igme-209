@@ -10,7 +10,8 @@
 *.userosscache
 *.sln.docstates
 Z_Delete
-
+Alberto.cpp
+Alberto.h
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
